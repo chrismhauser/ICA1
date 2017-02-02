@@ -1,0 +1,5 @@
+1. Read 2 bytes, map them to one byte and send that to the serial port.
+
+2. Yes.
+
+3. 1000 samples per second
